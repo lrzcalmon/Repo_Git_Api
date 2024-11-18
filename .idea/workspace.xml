@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b751be-949d-48b5-97fa-cb6df97b66c9" name="Changes" comment="Primeiro teste para criar API em python">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    <list default="true" id="32b751be-949d-48b5-97fa-cb6df97b66c9" name="Changes" comment="Atualização readme e setup">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +14,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lrzcalmon"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lrzcalmon/Repo_Git_Api",
+    "accountId": "3c6ce70d-9320-4cd4-82fa-d10676e147be"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -36,6 +52,7 @@
     "Python.ValorPossivel.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "G:/Projetos/python/invest-api-main",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -85,11 +102,20 @@
       <option name="project" value="LOCAL" />
       <updated>1731853788223</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Atualização readme e setup">
+      <option name="closed" value="true" />
+      <created>1731856707807</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731856707807</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro teste para criar API em python" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiro teste para criar API em python" />
+    <MESSAGE value="Atualização readme e setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização readme e setup" />
   </component>
 </project>
